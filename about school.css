@@ -1,0 +1,101 @@
+html> {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-container{
+    background-color: rgb(55, 0, 255);
+    height: 100px;
+    width: 100%;
+}
+
+.ul-navbar {
+     display: flex;
+     justify-content: center;
+     height: 100px;
+     align-items: center;
+   
+}
+.li-navbar {
+
+  list-style-type: none;
+  padding: 20px;
+  margin: 5px;
+  color: rgb(0, 0, 0);
+  font-size: 30px 
+  ;
+}
+
+.li-navbar:hover {
+    background-color: white;
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+
+}
+.image.p
+{
+   width: 500px;
+   height: 500px;
+   background-color: black;
+}
+
+.image-content {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 50px;
+   width: 100px;
+}
+.h1-footer {
+   background-color: rgb(2, 2, 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h1-fotter {
+   font-size: 40px;
+}
+.container-footer {
+   background-color: rgb(255, 254, 254);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h1-fotter {
+   font-size: 40px;
+}
+
+.a-navbar
+{
+    text-decoration: none;
+    color: black;
+}
+.li-navbar:hover {
+    background-color: white;
+    transition: .2s ease-in-out;
+       transition-delay: .1s;
+border-radius: 8px;
+
+}
+.social-media-sekolah {
+     display: flex;
+     justify-content: left;
+     height: 100px;
+     align-items: left;
+     list-style-type: none;
+     size: 500px;
+}
+   .gambar-depsa-about-school {     display: flex;
+     justify-content: center;
+     height: 100px;
+     align-items: center;
+   
+    
+   }

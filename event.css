@@ -1,0 +1,60 @@
+.image-content {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   width: 40vh;
+ box-shadow: 5px 17px 5px 1px rgba(0,0,0,0.75);
+-webkit-box-shadow: 5px 17px 5px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 5px 17px 5px 1px rgba(0,0,0,0.75);
+font-size: 20px;
+}
+.a-navbar
+{
+    text-decoration: none;
+    color: black;
+
+}
+
+.li-navbar:hover {
+    background-color: white;
+    transition: .2s ease-in-out;
+       transition-delay: .1s;
+border-radius: 8px;
+
+}
+.gambar-depsa-about-school {
+     display: flex;
+     justify-content: center;
+     height: 100px;
+     align-items: center;
+}
+
+
+.navbar-container{
+    background-color: rgb(55, 0, 255);
+    height: 100px;
+    width: 100%;
+}
+
+.ul-navbar {
+     display: flex;
+     justify-content: center;
+     height: 100px;
+     align-items: center;
+   
+}
+.li-navbar {
+
+  list-style-type: none;
+  padding: 20px;
+  margin: 5px;
+  color: rgb(0, 0, 0);
+  font-size: 30px 
+  ;
+}
+.katakata{
+    font-size: 40px;
+    text-align: bottom center;
+    ;
+}
